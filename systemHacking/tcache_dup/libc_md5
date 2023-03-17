@@ -1,0 +1,13 @@
+wargame md5
+50390b2ae8aaa73c47745040f54e602f  libc-2.27.so
+
+docker md5 18.04
+69982365f0e41b1e9be7816e71dd08d2  /lib/x86_64-linux-gnu/libc-2.27.so
+
+50390b2ae8aaa73c47745040f54e602f  libc6_2.27-3ubuntu1_amd64.so
+
+35ef4ffc9c6ad7ffd1fd8c16f14dc766  libc6_2.27-3ubuntu1.2_amd64.so
+
+b7bb0c7852f533334ee662034f534f7e  libc6_2.27-3ubuntu1.3_amd64.so
+
+8ee8363b834ad2c65a05bd40c8e4623e  libc6_2.27-3ubuntu1.4_amd64.so
